@@ -17,15 +17,22 @@ Questions
 The analysis that we are going to perform shall answer the following questions:
 
 1.Total restaurants and total cuisines all over the world?
+
 2.Which countries have the greatest number of restaurants enrolled in  Uber Eats?
+
 3.Which cities in India have the greatest number of "value for money restaurants?
+
 4.What are the top 10 cuisines that have the highest number of votes in India.?
+
 5.Which countries have restaurants that deliver online?
+
 6.In terms of the number of restaurants, which locality has the most?
+
 7.Which Restaurants have Good Cuisine and an average rating?
 
 
 Dashboard Snapshot 
+
 <img width="605" alt="Uber eats dashboard picture" src="https://github.com/user-attachments/assets/4a8254c8-0ecc-479b-a1b5-05d1e240c070">
 
 
