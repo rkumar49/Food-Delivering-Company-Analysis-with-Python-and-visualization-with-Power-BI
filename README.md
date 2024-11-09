@@ -24,9 +24,10 @@ The analysis that we are going to perform shall answer the following questions:
 6.In terms of the number of restaurants, which locality has the most?
 7.Which Restaurants have Good Cuisine and an average rating?
 
-Dashboard
+
 Dashboard Snapshot 
-<img width="608" alt="Uber eats dashboard picture" src="https://github.com/user-attachments/assets/61b5a0fe-257c-432f-9128-8914f823b6ba">
+<img width="605" alt="Uber eats dashboard picture" src="https://github.com/user-attachments/assets/4a8254c8-0ecc-479b-a1b5-05d1e240c070">
+
 
 Conclusion
 The dataset shows the restaurants with the highest cost for two, countries with a greater number of restaurants on  Uber Eats, countries with restaurants that offer online delivery, average aggregate rating for countries, etc.
